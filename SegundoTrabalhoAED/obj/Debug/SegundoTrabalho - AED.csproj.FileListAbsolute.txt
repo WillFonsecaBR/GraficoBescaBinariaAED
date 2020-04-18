@@ -1,0 +1,50 @@
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csprojAssemblyReference.cache
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Form1.resources
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Properties.Resources.resources
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.GenerateResource.cache
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.CoreCompileInputs.cache
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe.config
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.pdb
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.exe
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.pdb
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe.config
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.pdb
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csprojAssemblyReference.cache
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Form1.resources
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Properties.Resources.resources
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.GenerateResource.cache
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.CoreCompileInputs.cache
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.exe
+F:\10 - DESENVOLVIMENTO\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.pdb
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe.config
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.pdb
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Form1.resources
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Properties.Resources.resources
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.exe
+C:\Users\Pedro\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.pdb
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe.config
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.pdb
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csprojAssemblyReference.cache
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Form1.resources
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Properties.Resources.resources
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.GenerateResource.cache
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.CoreCompileInputs.cache
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.exe
+C:\Users\Will Fonseca\Desktop\SegundoTrabalho - AED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.pdb
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe.config
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.exe
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\bin\Debug\SegundoTrabalho - AED.pdb
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csprojAssemblyReference.cache
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Form1.resources
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho___AED.Properties.Resources.resources
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.GenerateResource.cache
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.exe
+E:\DESENVOLVIMENTO\C#\SegundoTrabalhoAED\SegundoTrabalho - AED\SegundoTrabalho - AED\obj\Debug\SegundoTrabalho - AED.pdb
